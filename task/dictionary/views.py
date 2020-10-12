@@ -1,12 +1,15 @@
 from django.shortcuts import render
-
-# Create your views here.
 from rest_framework.generics import get_object_or_404
+from django.views.generic import TemplateView
 from rest_framework.response import Response
 from rest_framework.views import APIView
-
 from .models import Word
 from .serializers import WordSerializer
+# Create your views here.
+
+
+class HomePageView(TemplateView):
+    template_name = 'home.html'
 
 
 class WordView(APIView):
@@ -34,4 +37,4 @@ class WordView(APIView):
     def delete(self, request, pk):
         word = get_object_or_404(Word.objects.all(), pk=pk)
         word.delete()
-        return Response({"message": "Word wit id' { } ' has been deleted".format(pk)}, status=204)
+        return Response({"message": "Word with id' { } ' has been deleted".format(pk)}, status=204)

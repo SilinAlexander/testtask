@@ -10,7 +10,6 @@ class User(models.Model):
     def _str_(self):
         return self.title
 
-
 class Word(models.Model):
     title = models.CharField(max_length=120)
     category = models.TextField()

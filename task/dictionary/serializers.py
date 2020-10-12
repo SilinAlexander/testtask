@@ -13,7 +13,6 @@ class WordSerializer(serializers.Serializer):
     transcription = serializers.CharField()
 
     def create(self, validated_data):
-
         return Word.objects.create(**validated_data)
 
     def update(self, instance, validated_data):
