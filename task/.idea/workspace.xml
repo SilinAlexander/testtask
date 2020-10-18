@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/ennorath/Новая папка/task" />
   </component>
   <component name="RunManager">
     <configuration name="task" type="Python.DjangoServer" factoryName="Django server">
@@ -122,6 +122,17 @@
       <workItem from="1602821616761" duration="137000" />
       <workItem from="1602825053825" duration="1369000" />
       <workItem from="1602827004493" duration="336000" />
+      <workItem from="1602842149529" duration="1449000" />
+      <workItem from="1602910365247" duration="572000" />
+      <workItem from="1602911378073" duration="11000" />
+      <workItem from="1602999557318" duration="242000" />
+      <workItem from="1602999890175" duration="5000" />
+      <workItem from="1603001720970" duration="1945000" />
+      <workItem from="1603004223702" duration="1608000" />
+      <workItem from="1603008142932" duration="42000" />
+      <workItem from="1603008308591" duration="470000" />
+      <workItem from="1603020822688" duration="677000" />
+      <workItem from="1603024622814" duration="3039000" />
     </task>
     <servers />
   </component>
@@ -155,9 +166,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="708" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602757827416" />
-    <state x="744" y="331" key="FileChooserDialogImpl" timestamp="1602514925623">
+    <state x="744" y="331" key="FileChooserDialogImpl" timestamp="1603021086722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="744" y="331" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602514925623" />
+    <state x="744" y="331" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603021086722" />
   </component>
 </project>
