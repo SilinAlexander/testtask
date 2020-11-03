@@ -19,16 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c467de87-a5cc-4644-afed-7d36275352b1" name="Default Changelist" comment="">
+    <list default="true" id="ec09ebb7-f2e6-40b7-8753-f040a2d22374" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
-    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,8 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JupyterTrust" id="d4df0fff-8aab-48ce-8afa-dfdb83fb2468" />
-  <component name="ProjectId" id="1im56tpglVvWM6r7vGsvBFGpD42" />
+  <component name="ProjectId" id="1jDbKMRAjL9ONQeM64P9YmndjAE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,9 +47,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/ennorath/Новая папка/task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="task" type="Python.DjangoServer" factoryName="Django server">
@@ -80,74 +76,29 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c467de87-a5cc-4644-afed-7d36275352b1" name="Default Changelist" comment="" />
-      <created>1602499754391</created>
+      <changelist id="ec09ebb7-f2e6-40b7-8753-f040a2d22374" name="Default Changelist" comment="" />
+      <created>1603341544835</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602499754391</updated>
-      <workItem from="1602499756238" duration="2417000" />
-      <workItem from="1602504408844" duration="17000" />
-      <workItem from="1602507874449" duration="126000" />
-      <workItem from="1602511240472" duration="56000" />
-      <workItem from="1602512137260" duration="504000" />
-      <workItem from="1602514307116" duration="2401000" />
-      <workItem from="1602522873114" duration="1998000" />
-      <workItem from="1602524938253" duration="4522000" />
-      <workItem from="1602531203020" duration="1635000" />
-      <workItem from="1602532875800" duration="3000" />
-      <workItem from="1602532942088" duration="47000" />
-      <workItem from="1602533024699" duration="1131000" />
-      <workItem from="1602565045999" duration="1475000" />
-      <workItem from="1602572958043" duration="1431000" />
-      <workItem from="1602581760464" duration="1280000" />
-      <workItem from="1602650254101" duration="591000" />
-      <workItem from="1602656668077" duration="1527000" />
-      <workItem from="1602732308973" duration="11000" />
-      <workItem from="1602737568541" duration="5931000" />
-      <workItem from="1602762583947" duration="5000" />
-      <workItem from="1602764523600" duration="35000" />
-      <workItem from="1602765021434" duration="70000" />
-      <workItem from="1602767390907" duration="2000" />
-      <workItem from="1602767413750" duration="2000" />
-      <workItem from="1602768874278" duration="11000" />
-      <workItem from="1602817816423" duration="14000" />
-      <workItem from="1602818011767" duration="64000" />
-      <workItem from="1602818091121" duration="6000" />
-      <workItem from="1602821616761" duration="137000" />
-      <workItem from="1602825053825" duration="1369000" />
-      <workItem from="1602827004493" duration="336000" />
-      <workItem from="1602842149529" duration="1449000" />
-      <workItem from="1602910365247" duration="572000" />
-      <workItem from="1602911378073" duration="11000" />
-      <workItem from="1602999557318" duration="242000" />
-      <workItem from="1602999890175" duration="5000" />
-      <workItem from="1603001720970" duration="1945000" />
-      <workItem from="1603004223702" duration="1608000" />
-      <workItem from="1603008142932" duration="42000" />
-      <workItem from="1603008308591" duration="470000" />
-      <workItem from="1603020822688" duration="677000" />
-      <workItem from="1603024622814" duration="3039000" />
+      <updated>1603341544835</updated>
+      <workItem from="1603341546788" duration="203000" />
+      <workItem from="1603341760781" duration="6622000" />
+      <workItem from="1604236858771" duration="27000" />
+      <workItem from="1604236887685" duration="5430000" />
+      <workItem from="1604244042030" duration="7000" />
+      <workItem from="1604395602298" duration="32000" />
+      <workItem from="1604401926265" duration="1198000" />
+      <workItem from="1604413970483" duration="5498000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -162,13 +113,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="708" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602757827416">
+    <state x="951" y="321" key="FileChooserDialogImpl" timestamp="1604236883722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="708" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602757827416" />
-    <state x="744" y="331" key="FileChooserDialogImpl" timestamp="1603021086722">
+    <state x="951" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604236883722" />
+    <state x="809" y="222" key="RollbackChangesDialog" timestamp="1604243166186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="744" y="331" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603021086722" />
+    <state x="809" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604243166186" />
   </component>
 </project>

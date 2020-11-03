@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import os
-import dj_database_url
+#import dj_database_url
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'x(l5ul2x*v0#3i1q&wews225r!um+^+wv=+w+6r3)ajc1*(j2+'
+SECRET_KEY = 'w^8j1@6glj-5ainlkgogmujf5m1a_knkq5q3a_&^8easp@b9+!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'dictionary',
-    'storages',
+
 ]
 
 MIDDLEWARE = [
@@ -80,12 +80,12 @@ WSGI_APPLICATION = 'task.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME':  BASE_DIR / 'postgresql_psycopg2',
-        'USER': 'admin10',
-        'PASSWORD': '654321',
-        'HOST': '127.0.0.1',
-        'PORT': '5432'
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+        #'USER': 'postgres',
+        #'PASSWORD': 'example',
+        #'HOST': 'database',
+       # 'PORT': 5432
 
     }
 }
@@ -129,8 +129,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-db_from_env = dj_database_url.config()
-DATABASES['default'].update(db_from_env)
-PASSWORD_HASHERS = [
-    'django.contrib.auth.hashers.MD5PasswordHasher',
-]
+#db_from_env = dj_database_url.config()
+#DATABASES['default'].update(db_from_env)
